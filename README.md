@@ -111,6 +111,12 @@ PS：建议下载WSL2
 1. 有自动联想/补全的shell让你不用再在老师给的ubuntu中蛋疼地打命令
 2. 好看的shell提高你的使用体验
 
+### M1 Mac下Parallel Desktop的Windows11 for Arm64
+M1 Mac最常用的虚拟机是Paralll Desktop，可以跑基于Arm64的其他操作系统，为什么是Win11？
+
+优点/解决的问题：
+1. Win11已经支持模拟运行原生的x86_64程序，而Win10只能直接模拟运行原生x86(而不能x64)，参见[官方说明](https://docs.microsoft.com/en-us/windows/arm/overview)
+   
 
 ## 贡献
 
